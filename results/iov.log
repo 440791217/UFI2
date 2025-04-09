@@ -1,0 +1,62 @@
+[
+  {
+    "category": "tst",
+    "sdc": 0.0,
+    "due": 0.0,
+    "masked": 1.0
+  },
+  {
+    "category": "ldr",
+    "sdc": 0.05,
+    "due": 0.4,
+    "masked": 0.56
+  },
+  {
+    "category": "cmp",
+    "sdc": 0.0,
+    "due": 0.0,
+    "masked": 1.0
+  },
+  {
+    "category": "sub",
+    "sdc": 0.0,
+    "due": 0.0,
+    "masked": 1.0
+  },
+  {
+    "category": "ldrb",
+    "sdc": 0.14,
+    "due": 0.0,
+    "masked": 0.86
+  },
+  {
+    "category": "strb",
+    "sdc": 0.33,
+    "due": 0.0,
+    "masked": 0.67
+  },
+  {
+    "category": "ldr.w",
+    "sdc": 0.0,
+    "due": 0.0,
+    "masked": 1.0
+  },
+  {
+    "category": "ldrh",
+    "sdc": 0.0,
+    "due": 0.0,
+    "masked": 1.0
+  },
+  {
+    "category": "str",
+    "sdc": 1.0,
+    "due": 0.0,
+    "masked": 0.0
+  },
+  {
+    "category": "app",
+    "sdc": 0.01,
+    "due": 0.05,
+    "masked": 0.94
+  }
+]

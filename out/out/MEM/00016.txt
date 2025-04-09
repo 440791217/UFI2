@@ -1,0 +1,3 @@
+2025-04-06 22:39:41.630672>>WF_HEAD
+2025-04-06 22:39:46.415010>>INJ_HEAD>>{"app": "", "mode": "MEM", "id": 16, "num": 1e-05, "regs": [], "mems": [{"id": 0, "name": "0x80103bf", "flips": [1], "before_value": "0x00", "after_value": "0x02"}, {"id": 1, "name": "0x8039e86", "flips": [0], "before_value": "0x00", "after_value": "0x01"}], "before_tm": 1.0825731248517463, "flips": [], "injected": false}<<INJ_END
+2025-04-06 22:39:47.820426>>WF_END

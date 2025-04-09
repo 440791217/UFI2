@@ -1,0 +1,104 @@
+[
+  {
+    "category": "r0",
+    "sdc": 0.0,
+    "due": 0.0,
+    "masked": 1.0
+  },
+  {
+    "category": "r1",
+    "sdc": 0.0,
+    "due": 0.0,
+    "masked": 1.0
+  },
+  {
+    "category": "r2",
+    "sdc": 0.0,
+    "due": 0.0,
+    "masked": 1.0
+  },
+  {
+    "category": "r3",
+    "sdc": 0.0,
+    "due": 0.0,
+    "masked": 1.0
+  },
+  {
+    "category": "r4",
+    "sdc": 0.0,
+    "due": 0.0,
+    "masked": 1.0
+  },
+  {
+    "category": "r5",
+    "sdc": 0.0,
+    "due": 0.0,
+    "masked": 1.0
+  },
+  {
+    "category": "r6",
+    "sdc": 0.0,
+    "due": 0.0,
+    "masked": 1.0
+  },
+  {
+    "category": "r7",
+    "sdc": 0.0,
+    "due": 0.0,
+    "masked": 1.0
+  },
+  {
+    "category": "r8",
+    "sdc": 0.0,
+    "due": 0.8,
+    "masked": 0.2
+  },
+  {
+    "category": "r9",
+    "sdc": 0.0,
+    "due": 0.0,
+    "masked": 1.0
+  },
+  {
+    "category": "r10",
+    "sdc": 0.0,
+    "due": 0.0,
+    "masked": 1.0
+  },
+  {
+    "category": "r11",
+    "sdc": 0.0,
+    "due": 0.0,
+    "masked": 1.0
+  },
+  {
+    "category": "r12",
+    "sdc": 0.0,
+    "due": 0.0,
+    "masked": 1.0
+  },
+  {
+    "category": "sp",
+    "sdc": 0.03,
+    "due": 0.91,
+    "masked": 0.06
+  },
+  {
+    "category": "lr",
+    "sdc": 0.0,
+    "due": 0.76,
+    "masked": 0.24
+  },
+  {
+    "category": "pc",
+    "sdc": 0.0,
+    "due": 0.82,
+    "masked": 0.18
+  },
+  {
+    "category": "app",
+    "sdc": 0.0,
+    "due": 0.22,
+    "masked": 0.77
+  }
+]

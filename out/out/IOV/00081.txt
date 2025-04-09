@@ -1,0 +1,3 @@
+2025-04-06 23:47:14.136993>>WF_HEAD
+2025-04-06 23:47:18.493695>>INJ_HEAD>>{"app": "", "mode": "IOV", "id": 81, "num": 1, "regs": [{"flips": [28], "before_value": -1, "after_value": -1}], "mems": [], "before_tm": 1.5292189648432064, "flips": [], "injected": false}<<INJ_END
+2025-04-06 23:47:19.899211>>WF_END

@@ -1,0 +1,6 @@
+{
+  "arch": "Cortex-R4",
+  "core": "TMS570LS3137",
+  "debugger": "J-Link",
+  "interface": "JTAG"
+}

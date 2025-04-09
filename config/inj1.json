@@ -1,0 +1,10 @@
+{
+  "app": "",
+  "mode": "IOA",
+  "bfm": "1",
+  "injnum": "1",
+  "exenum": "500",
+  "mem_addr": "8001600",
+  "space_size": "3EA00",
+  "executable": "/home/mark/fi/dnn_llvm.out"
+}
